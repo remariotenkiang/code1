@@ -18,7 +18,7 @@
 
   <modules>
     <module>server</module>
-    <module>santos</module>
+    <module>webapp</module>
   </modules>
 
   <distributionManagement>
