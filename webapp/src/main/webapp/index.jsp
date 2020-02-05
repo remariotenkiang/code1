@@ -12,7 +12,7 @@ Version    : 1.0
 Released   : 20081128
 -->
 
-
+<body bgcolor="#993333">
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -31,23 +31,19 @@ Released   : 20081128
     
     <div id="content">
     <div id="columnOne">
-	    <h1><a href="#">Article titles are H1 tags</a></h1>
-        <h3>Written by Admin - Posted: 10-28-2008</h3>
+	    <h1><a href="#">Hello Welcome to Simple Devops Projects</a></h1>
+        <h3>Written by Santos7 - Posted: 02-05-2020</h3>
         <div class="content">
-        	<p>You may use this template on any site, anywhere, for free just please leave the link back to me in the footer.   This template validates XHTML Strict 1.0, CSS Validates as well.</p><br />
-            <blockquote> This is block quote, you can include quotes from other articles, famous people, or yourself, be careful with that last one though. </blockquote>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Integer mi. Vivamus sit amet neque vitae sapien bibendum sodales. Curabitur elementum. Duis imperdiet. Donec eleifend porttitor sapien. Praesent leo. Quisque auctor velit sed tellus. Suspendisse potenti. Aenean laoreet imperdiet nunc. Donec commodo suscipit dolor. Aenean nibh. Sed id odio. Aliquam lobortis risus ut felis. Sed vehicula pellentesque quam.</p>   
-
-	        <div class="comments"><a href="#">Comments (2)</a></div>
+        	<p>SIMPLE DEFINITION OF DEVOPS.</p><br />
+            <blockquote> This is block quote, you can include quotes from other articles, famous people, or yourself. </blockquote>
+        <p> DevOps is a set of practices that combines software development and information-technology operations which aims to shorten the systems development life cycle and provide continuous delivery with high software quality.</p>   
+	        <div class="comments"><a href="#">MORE INFO</a></div>
         </div>
 
-        <h1><a href="#">Try to include keywords in your titles</a></h1>
-        <h3>Written by The future owner - Posted: 10-27-2008</h3>
-<div class="content">
-        	<p>Since the headings are h1 tags, your page will benefit from trying to include your best keywords in them for Search Engine Optimization purposes.   It is also a good idea to try to use these same keywords in your page title, and content itself.</p><br />
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Integer mi. Vivamus sit amet neque vitae sapien bibendum sodales. Curabitur elementum. Duis imperdiet. Donec eleifend porttitor sapien. Praesent leo. Quisque auctor velit sed tellus. Suspendisse potenti. Aenean laoreet imperdiet nunc. Donec commodo suscipit dolor. Aenean nibh. Sed id odio. Aliquam lobortis risus ut felis. Sed vehicula pellentesque quam.</p>
+        <h1><a href="#">Lets try to stay laser focus guys</a></h1>
         
-        <div class="comments"><a href="#">Comments (7)</a></div>
+<div class="content">
+        	<p>Since we got barely few weeks to hit that 6 figues, dont give up. </p>          
     </div>
     </div>
     
@@ -57,8 +53,8 @@ Released   : 20081128
     <div class="links">
     <ul>
 		<li><a href="http://www.bryantsmith.com">Web Design</a></li>
-   		<li><a href="http://www.bryantsmith.com">Web Programming</a></li>
-        <li><a href="http://www.bryantsmith.com">Search Engine Optimization</a></li>
+   		<li><a href="http://www.bryantsmith.com">Devops Engineer</a></li>
+        <li><a href="http://www.bryantsmith.com">AWS Cloud Engineer</a></li>
         <li><a href="http://www.bryantsmith.com">Portfolio</a></li>
         <li><a href="http://www.bryantsmith.com">Services</a></li>
         <li><a href="http://www.bryantsmith.com">Contact</a></li>
@@ -66,16 +62,7 @@ Released   : 20081128
     </ul>
     </div>
    
-    <h2>Affiliates Links</h2>
-    <div class="links">
-    <ul>
-		<li><a href="#">Affiliate 1</a></li>
-   		<li><a href="#">Affiliate 2</a></li>
-        <li><a href="#">Affiliate 3</a></li>
-        <li><a href="#">Affiliate 4</a></li>
-        <li><a href="#">Affiliate 5</a></li>
-    </ul>
-    </div>
+ 
    
     
     <h2>External Links</h2>
@@ -98,7 +85,7 @@ Released   : 20081128
     
     </div>
     </div>
-            <div id="footer"><a href="http://www.aszx.net">web development</a> by <a href="http://www.bryantsmith.com">bryant smith</a></div>
+            <div id="footer"><a href="http://www.aszx.net">Copyrights@SantosTechs2020</a> by <a href="http://www.bryantsmith.com">Santos Dangote</a></div>
         
    </div>
 </body>
